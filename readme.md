@@ -30,10 +30,10 @@ Ich entwickle Software, probiere neue Technologien aus und arbeite an eigenen Pr
 
 | Projekt | Beschreibung |
 |---|---|
-| 🌐 [ErrorHunter Website](https://errorhunter.de) | Meine Website |
-| 💻 [GitHub-Repositories](https://github.com/ErrorHunter?tab=repositories) | Meine öffentlichen Projekte |
-| 🐳 [Docker-Projekte](https://github.com/ErrorHunter?tab=repositories&q=docker) | Projekte rund um Docker und Selfhosting |
-| 🤖 [Bot-Projekte](https://github.com/ErrorHunter?tab=repositories&q=bot) | Bots und Automatisierungen |
+| 🌐 [ErrorHunter Website](https://pomni.fr) | Meine Website |
+| 💻 [GitHub-Repositories](https://github.com/pomnierror?tab=repositories) | Meine öffentlichen Projekte |
+| 🐳 [Docker-Projekte](https://github.com/pomnierror?tab=repositories&q=docker) | Projekte rund um Docker und Selfhosting |
+| 🤖 [Bot-Projekte](https://github.com/pomnierror?tab=repositories&q=bot) | Bots und Automatisierungen |
 
 ## 🛠️ Technologien
 
@@ -44,9 +44,9 @@ Ich entwickle Software, probiere neue Technologien aus und arbeite an eigenen Pr
 ## 📊 GitHub-Statistiken
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErrorHunter1&show_icons=true&hide_border=true&theme=transparent&title_color=ff456b&icon_color=579dff&text_color=c9d1d9" alt="GitHub-Statistiken">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorHunter1&layout=compact&hide_border=true&theme=transparent&title_color=ff456b&text_color=c9d1d9" alt="Meistgenutzte Programmiersprachen">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErrorHunter1&theme=transparent&hide_border=true&ring=ff456b&fire=ff456b&currStreakLabel=579dff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub-Streak">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pomnierror&show_icons=true&hide_border=true&theme=transparent&title_color=ff456b&icon_color=579dff&text_color=c9d1d9" alt="GitHub-Statistiken">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pomnierror&layout=compact&hide_border=true&theme=transparent&title_color=ff456b&text_color=c9d1d9" alt="Meistgenutzte Programmiersprachen">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pomnierror&theme=transparent&hide_border=true&ring=ff456b&fire=ff456b&currStreakLabel=579dff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub-Streak">
 </div>
 
 ## 🎭 Pomni
