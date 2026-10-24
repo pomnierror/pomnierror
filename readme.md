@@ -44,9 +44,9 @@ Ich entwickle Software, probiere neue Technologien aus und arbeite an eigenen Pr
 ## 📊 GitHub-Statistiken
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErrorHunter&show_icons=true&hide_border=true&theme=transparent&title_color=ff456b&icon_color=579dff&text_color=c9d1d9" alt="GitHub-Statistiken">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorHunter&layout=compact&hide_border=true&theme=transparent&title_color=ff456b&text_color=c9d1d9" alt="Meistgenutzte Programmiersprachen">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErrorHunter&theme=transparent&hide_border=true&ring=ff456b&fire=ff456b&currStreakLabel=579dff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub-Streak">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErrorHunter1&show_icons=true&hide_border=true&theme=transparent&title_color=ff456b&icon_color=579dff&text_color=c9d1d9" alt="GitHub-Statistiken">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorHunter1&layout=compact&hide_border=true&theme=transparent&title_color=ff456b&text_color=c9d1d9" alt="Meistgenutzte Programmiersprachen">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErrorHunter1&theme=transparent&hide_border=true&ring=ff456b&fire=ff456b&currStreakLabel=579dff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub-Streak">
 </div>
 
 ## 🎭 Pomni
