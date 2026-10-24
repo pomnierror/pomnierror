@@ -8,8 +8,8 @@
 
 **Developer · Selfhosting · Gaming · Pomni / The Amazing Digital Circus**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ErrorHunter-181717?style=for-the-badge&logo=github)](https://github.com/ErrorHunter)
-[![Website](https://img.shields.io/badge/Website-errorhunter.de-ff1744?style=for-the-badge&logo=googlechrome&logoColor=white)](https://errorhunter.de)
+[![GitHub](https://img.shields.io/badge/GitHub-ErrorHunter-181717?style=for-the-badge&logo=github)](https://github.com/pomnierror)
+[![Website](https://img.shields.io/badge/Website-errorhunter.de-ff1744?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pomni.fr.de)
 
 </div>
 
